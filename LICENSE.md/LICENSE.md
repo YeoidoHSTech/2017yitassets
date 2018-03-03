@@ -1,5 +1,0 @@
-The YiT Proprietary License
-Copyright (C) Yeoido Tech Club All rights reserved.
-
-The following files are proprietary assets from YiT.
-You DO NOT have any permission to use it without any special permission given.
